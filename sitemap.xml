@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wshstheatre.org/30-booster_board/</loc>
+    <loc>/30-booster_board/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wshstheatre.org/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wshstheatre.org/20-creative_team/</loc>
+    <loc>/20-creative_team/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wshstheatre.org/10-past_shows/</loc>
+    <loc>/10-past_shows/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wshstheatre.org/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wshstheatre.org/01-upcoming_shows/</loc>
+    <loc>/01-upcoming_shows/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://wshstheatre.org/</loc>
+    <loc>/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
