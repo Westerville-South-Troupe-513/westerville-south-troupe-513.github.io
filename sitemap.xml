@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/30-booster_board/</loc>
+    <loc>/booster_board/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -10,11 +10,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/20-creative_team/</loc>
+    <loc>/creative_team/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/10-past_shows/</loc>
+    <loc>/past_shows/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -22,7 +22,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/01-upcoming_shows/</loc>
+    <loc>/upcoming_shows/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
