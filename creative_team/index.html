@@ -211,6 +211,12 @@
       </div>
     </article>
   </div>
+  <script>
+    const scroll = new URLSearchParams(window.location.search).get('scroll');
+    if (scroll != null) {
+      window.scrollTo(0, scroll);
+    }
+  </script>
 
 
     </main>
